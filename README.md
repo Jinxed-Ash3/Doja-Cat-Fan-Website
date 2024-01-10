@@ -1,6 +1,6 @@
-# Doja Cat Merch Website
+# Doja Cat Fan Website
 
-Welcome to the Doja Cat Merch Website! This website is a small online store where you can explore and purchase exclusive Doja Cat merchandise. Additionally, you'll find information on the latest releases and upcoming tour dates. Dive into the world of Doja Cat and explore the unique collection of merchandise while staying updated on her music journey.
+Welcome to the Doja Cat Fan Website! This website is a small online store where you can explore and purchase exclusive Doja Cat merchandise. Additionally, you'll find information on the latest releases and upcoming tour dates. Dive into the world of Doja Cat and explore the unique collection of merchandise while staying updated on her music journey.
 
 
 ## Features
@@ -17,4 +17,4 @@ Plan your attendance to Doja Cat's live performances! Check out the tour dates s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/doja-cat-merch-website.git
+   git clone https://github.com/your-username/doja-cat-fan-website.git
